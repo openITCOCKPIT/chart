@@ -1,4 +1,4 @@
-module github.com/pkgplus/chart
+module github.com/openitcockpit/chart
 
 go 1.23.0
 
